@@ -1,16 +1,13 @@
-### Hi there 👋
+# del uh rune
+> ###### *So I can have a second bio?*
 
-<!--
-**ctrl-alt-delarune/ctrl-alt-delarune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm delarune (he/him; don't stress) and I am a hobbiest developer. I've been doing C++ on and off for about a year now, but I also can do JS and a sad Python. 
 
-Here are some ideas to get you started:
+# Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In Development
+> ###### *Coming to a repo near you!*
+### XAF
+
+###### C++, does not support C
+XAF (Cross-Platform Application Framework) is a framework made for applications with very basic rendering systems. XAF is extremely lightweight as to aid in debugging. 

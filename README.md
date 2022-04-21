@@ -10,4 +10,4 @@ Hi, I'm delarune (he/him; don't stress) and I am a hobbiest developer. I've been
 ### XAF
 
 ###### C++, does not support C
-XAF (Cross-Platform Application Framework) is a framework made for applications with very basic rendering functions. XAF is extremely lightweight as to aid in debugging. 
+XAF (Cross-Platform Application Framework) is a framework made for applications with basic rendering needs. XAF is extremely lightweight as to aid in debugging. 

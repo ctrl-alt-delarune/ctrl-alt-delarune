@@ -7,7 +7,6 @@ Hi, I'm delarune (he/him; don't stress) and I am a hobbiest developer. I've been
 
 ## In Development
 > ###### *Coming to a repo near you!*
-### XAFWorks
+### Nothing
 
-###### C++, does not support C
-XAFWorks (Cross-Platform Application FrameWORK~S~) is a framework made for applications with basic rendering needs. XAFWorks is extremely lightweight as to aid in debugging. 
+
